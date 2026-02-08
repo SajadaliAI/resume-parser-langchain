@@ -1,0 +1,19 @@
+# virtual environment
+genai_env/
+venv/
+env/
+
+# environment variables
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# streamlit
+.streamlit/
+
+# temp files
+*.pdf
+*.docx
+*.txt
